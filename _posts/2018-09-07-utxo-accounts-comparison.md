@@ -27,4 +27,5 @@ date: 2018-09-07
 4. Constant light client reference: Light clients can at any point access all data related to an account by scanning down the state tree in a specific direction. In a UTXO paradigm, the references change with each transaction, a particularly burdensome problem for long-running dapps that try to use the above mentioned state-root-in-UTXO propagation mechanism.
 
 **Account Cons**
+
 ~~1. No SPV (light client): currently Ethereum still does not have a SPV wallet regardless of the benefits of the light client.~~
