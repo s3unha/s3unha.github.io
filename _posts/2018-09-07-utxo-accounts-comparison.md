@@ -4,9 +4,9 @@ title: "UTXO v Accounts Comparison"
 date: 2018-09-07
 ---
 
-https://www.corda.net/2016/12/rationale-tradeoffs-adopting-utxo-style-model/
-https://medium.com/@ConsenSys/thoughts-on-utxo-by-vitalik-buterin-2bb782c67e53
-https://github.com/ethereum/wiki/wiki/Design-Rationale#accounts-and-not-utxos
+[Mike Hearn on UTXO](https://www.corda.net/2016/12/rationale-tradeoffs-adopting-utxo-style-model/)
+[Vitalik Buterin on UTXO](https://www.corda.net/2016/12/rationale-tradeoffs-adopting-utxo-style-model/)
+[Design Rationale: Accounts and not UTXOs](https://github.com/ethereum/wiki/wiki/Design-Rationale#accounts-and-not-utxos)
 
 the benefits of UTXOs are:
 
