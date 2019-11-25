@@ -4,4 +4,15 @@ title: About
 permalink: /about/
 ---
 
-learn, ask, document, create, destroy, repeat.
+Sweat:
+
+[nonce](https://nonce.community/)
+
+Skin:
+
+[alphanonce](https://www.alphanonce.com/)  
+[Cross Angle](https://xangle.io/)  
+[Everett](https://everett.zone/)  
+[ICON](https://icon.foundation/)  
+[Terra](https://terra.money/)  
+[VID](https://vid.camera/)
