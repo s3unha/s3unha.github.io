@@ -1,8 +1,8 @@
-.bundle
+.bundle/
 .sass-cache
 Gemfile.lock
 _site/
 *.gem
 _drafts/
 .DS_Store
-.jekyll-cache/
+*-cache/
