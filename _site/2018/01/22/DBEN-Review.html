@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>비트코인과 이더리움 네트워크의 탈중앙화 (Decentralization in Bitcoin and Ethereum Networks) 논문 요약 | dpsyphle</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="비트코인과 이더리움 네트워크의 탈중앙화 (Decentralization in Bitcoin and Ethereum Networks) 논문 요약" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="논문 링크 블로그 링크" />
+<meta property="og:description" content="논문 링크 블로그 링크" />
+<link rel="canonical" href="http://localhost:4000/2018/01/22/DBEN-Review.html" />
+<meta property="og:url" content="http://localhost:4000/2018/01/22/DBEN-Review.html" />
+<meta property="og:site_name" content="dpsyphle" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-01-22T00:00:00+09:00" />
+<script type="application/ld+json">
+{"description":"논문 링크 블로그 링크","headline":"비트코인과 이더리움 네트워크의 탈중앙화 (Decentralization in Bitcoin and Ethereum Networks) 논문 요약","dateModified":"2018-01-22T00:00:00+09:00","datePublished":"2018-01-22T00:00:00+09:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2018/01/22/DBEN-Review.html"},"url":"http://localhost:4000/2018/01/22/DBEN-Review.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="dpsyphle" /></head>
+<body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">dpsyphle</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">비트코인과 이더리움 네트워크의 탈중앙화 (Decentralization in Bitcoin and Ethereum Networks) 논문 요약</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2018-01-22T00:00:00+09:00" itemprop="datePublished">Jan 22, 2018
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h1 id="논문-링크"><a href="https://arxiv.org/pdf/1801.03998.pdf">논문 링크</a></h1>
+<h1 id="블로그-링크"><a href="http://hackingdistributed.com/2018/01/15/decentralization-bitcoin-ethereum/">블로그 링크</a></h1>
+
+<p><strong>2018년 1월 15일차 발간된 위 논문은 2015년부터 2017년까지 비트코인과 이더리움 네트워크 탈중앙화 정도를 측정하고 분석한 결과입니다. 이 블로그 포스팅은 논문을 요약하면서 개인적 생각을 서술한 글입니다. 비트코인도 아직 이해가 터무니 없이 부족하고 P2P 전문가가 아니니 잘 못 이해하는 부분이 있다면 가르침을 부탁드립니다.</strong></p>
+
+<p><em>FIBRE과 Falcon은 풀노드간 P2P 통신 이외 효율적인 블록 확산과 채굴을 위해 존재하는 중앙화 신속 릴레이 네트워크입니다. 논문 저자인 코넬 연구팀은 Falcon 네트워크를 통해 일반적으로 접할 수 없는 많은 데이터를 수집했으며 이 두 릴레이 네트워크에 대한 자세한 내용은 추후 포스팅에 다루도록 하겠습니다.</em></p>
+
+<ul>
+  <li>
+    <h3 id="요약">요약</h3>
+    <ol>
+      <li>2016년 대비 비트코인 노드 bandwidth 중간값은 1.7배 소폭 증가</li>
+      <li>이더리움이 비트코인 보다 더 많은 개인 채굴자가 다양한 지역에서 채굴하고 있음</li>
+      <li>비트코인 상위 채굴자 4명, 이더리움 상위 채굴자 3명이 해시량 50% 이상 가지고 있고 채굴을 주도하는 주체는 각 블록체인 마다 20명 미만임</li>
+      <li>릴레이 네트워크를 사용하지 않는 이더리움은 엉클 블록 때문에 해시량 낭비가 더 심함</li>
+      <li>블록 생성 시간이 짧은 이더리움이 해시량이 작은 채굴자에게 수익기회를 그나마 제공함</li>
+    </ol>
+  </li>
+  <li>
+    <h3 id="분석">분석</h3>
+    <ol>
+      <li>1.7배 블록크기를 증가하는 하드포크를 진행해도 bandwidth는 문제가 되지 않음</li>
+      <li>비트코인이 이더리움에 비해 지리적으로 중앙화 되어 있는 결과는 채굴 기업화와 여론을 조작할려는 노력이 (클라우드에서 구동되는 풀노드) 기여하는 바가 있다고 판단</li>
+      <li>채굴 주체가 각 블록체인당 20명 미만이기에 탈중앙화 정도는 미미하고 참가자가 20여명 정도인 Byzantine quorum system을 사용하는게 낫다고 봄</li>
+      <li>FIBRE과 Falcon 같은 릴레이 네트워크가 이더리움에 있다면 엉클 블록량이 내려가서 해시량을 효율적으로 사용하는게 가능</li>
+      <li>더 많고 다양한 참가자가 채굴하기 원한다면 블록 생성 시간을 고려할 필요가 있음</li>
+    </ol>
+  </li>
+  <li>
+    <h3 id="블로그-꼬리말">블로그 꼬리말</h3>
+    <ol>
+      <li>개발자 중앙화를 측정하고 싶다면 Nakamoto Coefficient 참고</li>
+      <li>비트코인 가격 변동 데이터를 구하기도 찾기도 힘듬</li>
+      <li>풀이 탈중앙화에 도움이 그닥 되지 않는 이유는 풀 하나의 해시량이 51% 되면 공격 가능성 때문에 개인이 풀에서 해시량을 뺀 경우는 있으나 풀 참가자가 이외 잠재적 위협이나 공격 가능성을 탐지 가능한 기능이 현저히 떨어짐</li>
+    </ol>
+  </li>
+  <li>
+    <h3 id="개인-의견">개인 의견</h3>
+    <ol>
+      <li>블록체인 생태계에는 암호학 배경 엔지니어는 많으나 분산 컴퓨팅과 P2P 네트워크 배경 엔지니어가 절실하게 필요함. 비트코인은 IPv4, IPv6, Tor 노드와 릴레이 네트워크를 분석해서 데이터를 수집했으나 UDP 기반인 이더리움은 Tor 노드와 릴레이 네트워크가 없고 IPv6 노드는 충분치 않아서 데이터를 제외했음. P2P 네트워크에 대한 연구가 충분히 되지 않고 있음</li>
+      <li>데이터를 정확하고 쉽게 측정할 수 있는 기반시설이 절실함. 예를 들어 이더리움 엉클 블록을 확인 할 수 있는 방법이 현재 없음. 기반시설이 갖춰지면 다양한 연구도 쉽게 진행 될 수 있으며 개인 풀 참가자나 풀노드도 네트워크 상태를 파악하고 공격에 동적으로 반응하는게 가능</li>
+      <li>각 블록체인에 대한 데이터를 낱낱이 보관하면 미래에 자산이 될 수 있음</li>
+      <li>탈중앙화 종류를 파악하고 이를 어떻게 가능케 하는가에 대한 연구는 계속해서 필요함</li>
+    </ol>
+  </li>
+</ul>
+
+  </div><a class="u-url" href="/2018/01/22/DBEN-Review.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col one-half">
+      <h2 class="footer-heading">dpsyphle</h2>
+        <ul class="contact-list">
+          <li class="p-name"></li><li><a class="u-email" href="mailto:s3unha@protonmail.ch">s3unha@protonmail.ch</a></li></ul>
+      </div>
+
+      <div class="footer-col one-half">
+        <p></p>
+      </div>
+
+      <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/s3unha" title="s3unha"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel="me" href="https://twitter.com/s3unha" title="s3unha"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+</div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
