@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Racism and Technology"
-date: 2019-12-10
+date: 2019-12-12
 ---
 
-I aspire to be someone like [Anil Dash](https://twitter.com/anildash), once I've paid my dues in tech and arts. Anil is one of my favorite modern polymaths. I spent a fair amount of my life pursuing the arts in a past life and now I'm [somewhere between tech and culture](https://nonce.community). He raises awareness about issues that overlap and often go beyond tech, and dedicate significant man-hours to writing.
+I aspire to be someone like [Anil Dash](https://twitter.com/anildash), once I've paid my dues in tech and the arts. Anil is one of my favorite modern polymaths. I spent a fair amount of my life pursuing the arts in a past life and now I'm [somewhere between tech and culture](https://nonce.community). He raises awareness about issues that overlap and often go beyond tech, and dedicate significant man-hours to writing.
 
 [Code Newbies](https://www.codenewbie.org/podcast/from-tech-blogger-to-fog-creek-ceo) first acquainted me with him and the conversation between Anil and [Saron](https://twitter.com/saronyitbarek) blew my mind. Maybe it's because the blockchain industry has barely started to scratch the surface about [ethics](https://epicenter.tv/episodes/311/). Or maybe I'm tired of the industry with its technocrats and arguments for market-forces-as-a-silver-bullet. Their conversation centered around (tech) products manifesting the values of their creator(s) and how as "tech, broadly, is the wealthiest and most powerful industry that has ever existed... we have the highest responsibility." Anil encouraged me to embrace and not fight the values my parents inculcated in me. He pushed me to think more about morals and ethics the deeper I get into tech.
 

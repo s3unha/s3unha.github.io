@@ -10,9 +10,11 @@ Sweat:
 
 Skin:
 
-[alphanonce](https://www.alphanonce.com/)  
-[Cross Angle](https://xangle.io/)  
-[Everett](https://everett.zone/)  
-[ICON](https://icon.foundation/)  
-[Terra](https://terra.money/)  
+[alphanonce](https://www.alphanonce.com/)
+[ICON](https://icon.foundation/)
+[Polkadot](https://polkadot.network/)
+[Terra](https://terra.money/)
+[Cross Angle](https://xangle.io/)
 [VID](https://vid.camera/)
+[Everett](https://everett.zone/)
+[dsrv labs](https://www.dsrvlabs.com/)
