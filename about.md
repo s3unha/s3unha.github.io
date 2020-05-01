@@ -15,8 +15,8 @@ Skin:
 [Polkadot](https://polkadot.network/)  
 [Terra](https://terra.money/)  
 [Cross Angle](https://xangle.io/)  
-[dsrv labs](https://www.dsrvlabs.com/)
+[dsrv labs](https://www.dsrvlabs.com/)  
 [Nine Chronicles](https://nine-chronicles.com/)
 
-~~[VID](https://vid.camera/)~~
+~~[VID](https://vid.camera/)~~  
 ~~[Everett](https://everett.zone/)~~
