@@ -1,5 +1,7 @@
 title: dpsyphle
-email: s3unha@protonmail.ch
+author:
+  name:
+  email: s3unha@protonmail.ch
 description: > # this means to ignore newlines until "show_excerpts:"
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -7,7 +9,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-  skin: solarized-dark
+  skin: dark
 
 #url: "https://dpsyphle.ninja" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -15,7 +17,7 @@ minima:
   social_links:
     twitter: s3unha
     github:  s3unha
-    # rss: rss
+    # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -32,6 +34,13 @@ minima:
 
     # Mastodon instances
     # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
     # - username: jekyll
     #   instance: example.com
     # - username: jekyll2
