@@ -6,17 +6,24 @@ permalink: /about/
 
 Sweat:
 
-[nonce](https://nonce.community/)
+💦&nbsp; [nonce](https://nonce.community/)
 
 Skin:
 
-[alphanonce](https://www.alphanonce.com/)  
-[ICON](https://icon.foundation/)  
-[Polkadot](https://polkadot.network/)  
-[Terra](https://terra.money/)  
-[Cross Angle](https://xangle.io/)  
-[dsrv labs](https://www.dsrvlabs.com/)  
-[Nine Chronicles](https://nine-chronicles.com/)
+🔮&nbsp; [ICON](https://icon.foundation/)  
+🔮&nbsp; [Polkadot](https://polkadot.network/)  
+🔮&nbsp; [Terra](https://terra.money/)  
+🔮&nbsp; [Nine Chronicles](https://nine-chronicles.com/)  
 
-~~[VID](https://vid.camera/)~~  
-~~[Everett](https://everett.zone/)~~
+🎫&nbsp; [alphanonce](https://www.alphanonce.com/)  
+🎫&nbsp; [Cross Angle](https://xangle.io/)  
+🎫&nbsp; [dsrv labs](https://www.dsrvlabs.com/)  
+🎫&nbsp; [Awake Corp](https://awakepeople.com/)
+
+Exit:
+
+🎫&nbsp; [Everett](https://everett.zone/)  
+
+Fail:
+
+🔮&nbsp; ~~[VID](https://vid.camera/)~~  
