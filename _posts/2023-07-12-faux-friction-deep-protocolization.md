@@ -2,6 +2,7 @@
 layout: post
 title: "[The Monday Mix] (Faux) Friction and Deep Protocolization"
 date: 2023-07-12
+categories: Newsletter
 ---
 
 ## **The Promise**
