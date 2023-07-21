@@ -30,6 +30,8 @@ url: https://s3unha.github.io # the base hostname & protocol for your site, e.g.
 twitter_username: s3unha
 github_username:  s3unha
 
+markdown: kramdown
+
 # Build settings
 theme: minima
 plugins:
