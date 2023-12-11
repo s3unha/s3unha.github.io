@@ -5,7 +5,7 @@ date: 2023-11-22
 categories: Blog
 ---
 
-## **Overture**
+## Overture
 
 It's been years since I applied for Visa, and this time I was doing it weeks before my departure. My shots came first. Then a friend advised not applying through the Nigerian Immigration Service website. He recommended a "[protocol service agent](https://fglobalshipping.com/airport-protocol/)" side door. That caught me off guard. What I thought were my rich travel experiences didn't help much here. These stories set my imagination in motion and I packed way more than usual.
 
@@ -20,7 +20,7 @@ Nigeria turned out to be a repetition of one "Welcome to Nigeria" moment after a
 4. Instead of services, processes, or systems becoming more efficient over time, steps are added to generate more tipping opportunities.
    Ex: A three step check-in process is now a five step process.
 
-## **Goodbye Murtala Muhammed International Airport (MMIA)**
+## Goodbye Murtala Muhammed International Airport (MMIA)
 
 Soon the time to leave Lagos came. I struggled to wrap my head around the fact that leaving a country could be more complicated than entering because I didn't have a protocol agent looking out for me.
 
@@ -32,7 +32,7 @@ It was hard not to take it personally.
 
 It was "Welcome to Nigeria" even till the very end.
 
-## **Hello Incheon International Airport (ICN)**
+## Hello Incheon International Airport (ICN)
 
 A couple hours later, I landed in Incheon and things just worked. It couldn't have been more outlandish and the experience felt unreal. Here I was treading the land of K-Platonic forms. It took me a total of 10 minutes getting off of the plane to the baggage carousel. 
 

@@ -5,7 +5,7 @@ date: 2023-07-12
 categories: Newsletter
 ---
 
-## **The Promise**
+## The Promise
 
 We were told the internet would [reshape institutions, societies, and mores](https://www.eff.org/cyberspace-independence). The internet would take the very foundation society is built upon and make it "better".
 
@@ -13,7 +13,7 @@ Revolutions do not take place over a matter of days. Past revolutions stretched 
 
 No revolution, though, is free. Whether visible or hidden, there are prices to pay. Revolutions give birth to lots of good as well as bad. Change is guaranteed, but the type of change is not.
 
-## **(Faux) Friction**
+## (Faux) Friction
 
 The internet eliminated friction and in its place left convenience. A single click gave anyone, anytime, anywhere access to information at practically zero cost. Architects of this new world heralded frictionless convenience as innovations with no strings attached. It was only when we peeled back the curtain that we discovered faux friction.
 
@@ -23,7 +23,7 @@ Builders leaned into the pareto principle. They targeted the most frequently use
 
 It's evident friction makes both the good and the terrible harder. Mission Just-Eliminate-Friction attaches a rocket to the good and the terrible. The past two decades made the ramifications of frictionlessness clearer. We started losing everything built on friction, including value, privacy, livelihoods, etc.
 
-## **Deep Protocolization Supreme**
+## Deep Protocolization Supreme
 
 > "A cord of three strands is not quickly broken".
 
