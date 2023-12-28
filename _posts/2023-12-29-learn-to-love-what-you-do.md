@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learn To Love"
-date: 2023-12-28
+title: "Learn to Love (What You Do)"
+date: 2023-12-29
 categories: Blog
 ---
 
