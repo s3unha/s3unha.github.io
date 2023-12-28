@@ -28,7 +28,7 @@ markdown: kramdown
 
 twitter_username: s3unha
 
-future: false
+future: true
 timezone: Asia/Seoul
 
   # social_links:
