@@ -28,6 +28,8 @@ markdown: kramdown
 
 twitter_username: s3unha
 
+future: false
+
   # social_links:
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
@@ -74,5 +76,3 @@ twitter_username: s3unha
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
- future: true
