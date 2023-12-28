@@ -29,6 +29,7 @@ markdown: kramdown
 twitter_username: s3unha
 
 future: false
+timezone: Asia/Seoul
 
   # social_links:
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
