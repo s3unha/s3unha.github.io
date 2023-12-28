@@ -9,7 +9,7 @@ _Hyochang-dong, Seoul, Korea,_
 _December 29th, 2023_
 
 Dear RJ,
-
+ 
 In our call some weeks ago you mentioned you were trying to figure out what's worth pursuing for the next few years. I said when it comes to that question, I regret not trusting my intuitions enough and pointed to my experience dancing. I advised that you lean into your intuition and trust that it will self-select the right work. Then again, [塞翁之馬](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse)—I have the privilege to look back and retrofit.
 
 I've been mulling over what I said because I wasn't sure my words made sense. Here's my organized thoughts.
