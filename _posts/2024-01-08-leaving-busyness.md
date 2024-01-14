@@ -9,7 +9,7 @@ I'm getting out of a complicated love-hate relationship. She demands my attentio
 
 Her name is Busyness.
 
-She was always in my life. She even got my my parents to fall in love with her. Actions speak louder than words--they will never admit this, but she was more important than anyone in our family. My parents had never a dull moment under her charm. To witness your parents spend prolonged time with an outsider over you doesn't just hurt--it festers. I learned to look the other way and told myself this is how all relationships must be.
+She was always in my life. She even got my parents to fall in love with her. Actions speak louder than words--they will never admit this, but she was more important than anyone in our family. My parents had never a dull moment under her charm. To witness your parents spend prolonged time with an outsider over you doesn't just hurt--it festers. I learned to look the other way and told myself this is how all relationships must be.
 
 Now that I'm walking away from this toxic relationship, I see Busyness wasn't always this way. She used to be Work.
 
